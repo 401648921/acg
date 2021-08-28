@@ -1,0 +1,67 @@
+@font-face {
+  font-family: "iconfont-go"; /* Project id 2455654 */
+  src: url('iconfont.woff2?t=1627974653764') format('woff2'),
+       url('iconfont.woff?t=1627974653764') format('woff'),
+       url('iconfont.ttf?t=1627974653764') format('truetype');
+}
+
+.iconfont-go {
+  font-family: "iconfont-go" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-gohome-full:before {
+  content: "\e974";
+}
+
+.icon-gohome:before {
+  content: "\e973";
+}
+
+.icon-goimg:before {
+  content: "\e61b";
+}
+
+.icon-gorenminbi:before {
+  content: "\e66b";
+}
+
+.icon-godamuzhi:before {
+  content: "\e669";
+}
+
+.icon-gofl-renminbi:before {
+  content: "\e604";
+}
+
+.icon-gozhaoxiangji:before {
+  content: "\e603";
+}
+
+.icon-gofangdajing:before {
+  content: "\e6f8";
+}
+
+.icon-goche-copy:before {
+  content: "\e602";
+}
+
+.icon-gofangzi:before {
+  content: "\e600";
+}
+
+.icon-goyanjing:before {
+  content: "\e63a";
+}
+
+.icon-goico1:before {
+  content: "\e601";
+}
+
+.icon-goyanjing1:before {
+  content: "\e68c";
+}
+

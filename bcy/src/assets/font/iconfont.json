@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3734679",
+      "name": "收 藏",
+      "font_class": "shoucang",
+      "unicode": "e507",
+      "unicode_decimal": 58631
+    },
+    {
+      "icon_id": "5594150",
+      "name": "爱心",
+      "font_class": "weibiaoti-",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "8118336",
+      "name": "评论",
+      "font_class": "pinglun",
+      "unicode": "e53e",
+      "unicode_decimal": 58686
+    },
+    {
+      "icon_id": "20965963",
+      "name": "分享",
+      "font_class": "fenxiang",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    }
+  ]
+}

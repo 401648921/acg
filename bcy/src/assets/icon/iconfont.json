@@ -1,0 +1,100 @@
+{
+  "id": "2455654",
+  "name": "no name",
+  "font_family": "iconfont-go",
+  "css_prefix_text": "icon-go",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "18170148",
+      "name": "首页,屋子,主页,房子",
+      "font_class": "home-full",
+      "unicode": "e974",
+      "unicode_decimal": 59764
+    },
+    {
+      "icon_id": "18170149",
+      "name": "首页,屋子,主页,房子",
+      "font_class": "home",
+      "unicode": "e973",
+      "unicode_decimal": 59763
+    },
+    {
+      "icon_id": "13990910",
+      "name": "img",
+      "font_class": "img",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "767685",
+      "name": "人民币",
+      "font_class": "renminbi",
+      "unicode": "e66b",
+      "unicode_decimal": 58987
+    },
+    {
+      "icon_id": "5435416",
+      "name": "大拇指",
+      "font_class": "damuzhi",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "10012511",
+      "name": "人民币",
+      "font_class": "fl-renminbi",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "1266",
+      "name": "照相机",
+      "font_class": "zhaoxiangji",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "12417937",
+      "name": "放大镜",
+      "font_class": "fangdajing",
+      "unicode": "e6f8",
+      "unicode_decimal": 59128
+    },
+    {
+      "icon_id": "18790689",
+      "name": "购物车",
+      "font_class": "che-copy",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "15289348",
+      "name": "房子",
+      "font_class": "fangzi",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "7614153",
+      "name": "眼睛",
+      "font_class": "yanjing",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "11474726",
+      "name": "二维码",
+      "font_class": "ico1",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "18153704",
+      "name": "眼睛",
+      "font_class": "yanjing1",
+      "unicode": "e68c",
+      "unicode_decimal": 59020
+    }
+  ]
+}
